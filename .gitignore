@@ -1,45 +1,89 @@
+# ============================
 # Python
+# ============================
 __pycache__/
 *.py[cod]
-*.pyo
+*$py.class
 
+# ============================
 # Virtual Environment
+# ============================
 .venv/
 venv/
+env/
 
-# Jupyter
+# ============================
+# Jupyter Notebook
+# ============================
 .ipynb_checkpoints/
 
+# ============================
+# VS Code
+# ============================
+.vscode/
+
+# ============================
 # macOS
+# ============================
 .DS_Store
 
-# IDE
-.vscode/
-.idea/
-
-# MLflow
-mlruns/
-
-# Models
-models/*.pkl
-models/*.joblib
-
+# ============================
 # Logs
-logs/
+# ============================
 *.log
 
-# Environment
-.env
+# ============================
+# Streamlit
+# ============================
+.streamlit/
 
+# ============================
+# Python Build
+# ============================
+build/
+dist/
+*.egg-info/
+
+# ============================
+# Pytest
+# ============================
+.pytest_cache/
+
+# ============================
+# Mypy
+# ============================
+.mypy_cache/
+
+# ============================
 # Coverage
+# ============================
 .coverage
 htmlcov/
 
-# Build
-dist/
-build/
-*.egg-info/
+# ============================
+# Environment Variables
+# ============================
+.env
 
-# Cache
-.pytest_cache/
-.mypy_cache/
+# ============================
+# Temporary Files
+# ============================
+*.tmp
+*.swp
+
+# Dataset
+data/raw/creditcard.csv
+
+# Model artifacts (optional)
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

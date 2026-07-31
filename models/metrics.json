@@ -1,0 +1,14 @@
+{
+    "model_name": "XGBoost Classifier",
+    "accuracy": 0.9994,
+    "precision": 0.9785,
+    "recall": 0.9156,
+    "f1_score": 0.9460,
+    "roc_auc": 0.9987,
+    "train_size": 227845,
+    "test_size": 56962,
+    "features": 30,
+    "algorithm": "XGBoost",
+    "target": "Class",
+    "version": "2.0.0"
+}

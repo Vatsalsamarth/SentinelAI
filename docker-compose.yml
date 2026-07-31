@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+
+  sentinelai:
+
+    build: .
+
+    container_name: sentinelai
+
+    ports:
+      - "8501:8501"
+
+    restart: always
