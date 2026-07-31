@@ -38,35 +38,34 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 
 ---
 # 📸 Dashboard Preview
-
-### 🏠 Home
+## 🏠 Home Interface
 
 <p align="center">
-  <img src="images/home-interface.png" alt="Home Interface" width="95%"/>
+  <img src="images/home-interface.png" alt="Home Interface" width="95%">
 </p>
 
 ---
 
-### 📊 Analytics Dashboard
+## 📊 Analytics Dashboard
 
 <p align="center">
-  <img src="images/analytics-dashboard.png" alt="Analytics Dashboard" width="95%"/>
+  <img src="images/analytics-dashboard.png" alt="Analytics Dashboard" width="95%">
 </p>
 
 ---
 
-### 🔍 Fraud Prediction Results
+## 📋 Prediction Results
 
 <p align="center">
-  <img src="images/prediction-results.png" alt="Prediction Results" width="95%"/>
+  <img src="images/prediction-results.png" alt="Prediction Results" width="95%">
 </p>
 
 ---
 
-### 📈 Fraud Probability Distribution
+## 📈 Fraud Probability Distribution
 
 <p align="center">
-  <img src="images/fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%"/>
+  <img src="images/fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
 </p>
 
 ---
