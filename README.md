@@ -36,42 +36,44 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 - 🐳 Dockerized deployment
 - 🧩 Modular and production-ready project structure
 
----
 ## 📸 Dashboard Preview
 
 ### 🏠 Home Interface
 
-![Home Interface](home-interface.PNG)
+<p align="center">
+  <img src="home-interface.PNG" alt="Home Interface" width="95%">
+</p>
 
 ---
 
 ### 📂 Upload CSV
 
-![Upload CSV](upload-csv.png)
+<p align="center">
+  <img src="upload-csv.png" alt="Upload CSV" width="95%">
+</p>
 
 ---
 
 ### 📊 Analytics Dashboard
 
-![Analytics Dashboard](analytics-dashboard.png)
+<p align="center">
+  <img src="analytics-dashboard.png" alt="Analytics Dashboard" width="95%">
+</p>
 
 ---
 
 ### 📈 Fraud Probability Distribution
 
-![Fraud Probability Distribution](fraud-probability-distribution.png)
+<p align="center">
+  <img src="fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
+</p>
 
 ---
 
 ### 📋 Prediction Results
 
-![Prediction Results](prediction-results.png)
----
-
-## 📈 Fraud Probability Distribution
-
 <p align="center">
-  <img src="images/fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
+  <img src="prediction-results.png" alt="Prediction Results" width="95%">
 </p>
 
 ---
