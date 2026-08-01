@@ -81,22 +81,17 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 <p align="center">
   <img src="images/fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
 </p>
-## 🎯 Features
+## ✨ Features
 
-- 🔍 Real-time credit card fraud detection
-- 🤖 XGBoost-based machine learning model
-- ⚖️ SMOTE for handling severe class imbalance
-- 🌐 FastAPI REST API for inference
-- 📊 Interactive Streamlit dashboard
-- 📂 Batch prediction from CSV files
-- 🧾 Single transaction prediction interface
-- 📈 Performance metrics and visualizations
-- 🐳 Docker support for easy deployment
-- 🏗️ Modular, production-ready codebase
-- 💾 Saved model and preprocessing pipeline
-- 📚 Well-documented project structure
-
----
+- 🚀 AI-powered credit card fraud detection using a trained XGBoost model.
+- 📂 Upload transaction datasets in CSV format.
+- ⚡ Fast prediction pipeline with real-time inference.
+- 📊 Interactive analytics dashboard for transaction insights.
+- 📈 Fraud probability distribution visualization.
+- 📋 Detailed prediction table with downloadable results.
+- 🔍 Detect suspicious transactions with fraud probabilities.
+- 📥 Export prediction results as CSV.
+- 🎨 Clean and responsive Streamlit user interface.
 # 🏗️ System Architecture
 
 ```text
@@ -138,22 +133,17 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| **Programming Language** | Python 3.12 |
-| **Machine Learning** | Scikit-learn, XGBoost |
-| **Data Processing** | Pandas, NumPy |
-| **Imbalanced Learning** | SMOTE (imbalanced-learn) |
-| **Model Explainability** | SHAP |
-| **Backend API** | FastAPI |
-| **Frontend** | Streamlit |
-| **Visualization** | Matplotlib, Plotly |
-| **Model Serialization** | Joblib |
-| **Containerization** | Docker, Docker Compose |
-
----
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python |
+| Machine Learning | XGBoost |
+| Data Processing | Pandas, NumPy |
+| Visualization | Plotly |
+| Web Framework | Streamlit |
+| Model Serialization | Joblib |
+| Dataset | Kaggle Credit Card Fraud Dataset |
 
 # 📂 Project Structure
 
