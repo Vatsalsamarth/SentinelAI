@@ -41,7 +41,7 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 ### 🏠 Home Interface
 
 <p align="center">
-  <img src="home-interface.PNG" alt="Home Interface" width="95%">
+  <img src="images/home-interface.PNG" alt="Home Interface" width="95%">
 </p>
 
 ---
@@ -49,7 +49,7 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 ### 📂 Upload CSV
 
 <p align="center">
-  <img src="upload-csv.png" alt="Upload CSV" width="95%">
+  <img src="images/upload-csv.png" alt="Upload CSV" width="95%">
 </p>
 
 ---
@@ -57,15 +57,7 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 ### 📊 Analytics Dashboard
 
 <p align="center">
-  <img src="analytics-dashboard.png" alt="Analytics Dashboard" width="95%">
-</p>
-
----
-
-### 📈 Fraud Probability Distribution
-
-<p align="center">
-  <img src="fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
+  <img src="images/analytics-dashboard.png" alt="Analytics Dashboard" width="95%">
 </p>
 
 ---
@@ -73,11 +65,16 @@ The model is trained on the highly imbalanced Credit Card Fraud Detection datase
 ### 📋 Prediction Results
 
 <p align="center">
-  <img src="prediction-results.png" alt="Prediction Results" width="95%">
+  <img src="images/prediction-results.png" alt="Prediction Results" width="95%">
 </p>
 
 ---
 
+### 📈 Fraud Probability Distribution
+
+<p align="center">
+  <img src="images/fraud-probability-distribution.png" alt="Fraud Probability Distribution" width="95%">
+</p>
 ## 🎯 Features
 
 - 🔍 Real-time credit card fraud detection
